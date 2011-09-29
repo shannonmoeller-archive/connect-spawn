@@ -1,0 +1,9 @@
+{
+	"name": "connect-spawn",
+	"description": "Child process middleware for connect",
+	"version": "0.0.1",
+	"main": "./lib/connect-spawn.js",
+	"contributors": [
+		{ "name": "Shannon Moeller", "email": "me@shannonmoeller.com" }
+	]
+}
